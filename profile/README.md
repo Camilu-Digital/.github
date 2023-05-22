@@ -5,11 +5,9 @@
 </div> 
 
 
-  <ul>
-  <div align="center">
-    <li><b>Google Play</b> (work in progress)</li>
-    <li><b>App Store</b> (Coming soon)</li>
-    </div>
-  </ul>  
+<div align="center">
+  <b>Google Play</b> (work in progress)
+  <b>App Store</b> (Coming soon)
+</div>
 
 
